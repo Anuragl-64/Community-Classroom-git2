@@ -1,0 +1,21 @@
+#!/bin/bash
+echo "Devops"
+
+
+
+
+####Hey again this is anurag 
+learning git and github 
+Resource : Kunal Kushwaha Devops playlist 
+
+
+##Commands i have learnt 
+
+Git status (to check the status of file )
+ls is for listing the files 
+git commit -m "name1.txt file is added" ( make the commitment that file is staged or unstaged and other messages
+git add. (used before commit command ) before adding the command 
+git add name1.txt ( to make the unstaged file into staged )
+git log (checks the enteries which makes during the changes )
+git reset ( to shows the particular entery )
+
